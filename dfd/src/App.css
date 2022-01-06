@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-
 }
 
 .App-logo {
@@ -27,30 +26,6 @@
 
 .App-link {
   color: #61dafb;
-}
-
-.icon-container {
-  display: flex;
-  justify-content: end;
-  gap: 1rem;
-  margin-top: 1rem;
-}
-
-p {
-  line-height: 0rem;
-}
-
-h1 {
-  font-size: 12rem;
-}
-
-h2 {
-  display: flex;
-  justify-content: end;
-}
-.underlined-links{
-  font-style: italic;
-  text-decoration: underline;
 }
 
 @keyframes App-logo-spin {

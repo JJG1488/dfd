@@ -1,0 +1,11 @@
+.icon-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 0 auto;
+  }
+
+  h2 {
+    display: flex;
+    justify-content: center;
+  }

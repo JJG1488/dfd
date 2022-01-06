@@ -1,0 +1,12 @@
+.container {
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 6rem;
+  }
+
+.underlined-links{
+    font-style: italic;
+    text-decoration: underline;
+  }
