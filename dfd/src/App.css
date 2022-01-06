@@ -48,6 +48,10 @@ h2 {
   display: flex;
   justify-content: end;
 }
+.underlined-links{
+  font-style: italic;
+  text-decoration: underline;
+}
 
 @keyframes App-logo-spin {
   from {
